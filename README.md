@@ -7,3 +7,4 @@
 3. npm i react-router-dom
 4. npm i @material-ui/core
 5. npm i @material-ui/icons
+6. npm i react-currency-format
